@@ -1,0 +1,3390 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "3.8.3",
+    "uniqCompNum": 0,
+    "versionPublish": "3.8.3",
+    "name": "My Site",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Calhas CM e Calheiros em São José dos Pinhais (41) 3283-2444",
+        "meta_descr": "Calheiros de confiança e calhas de primeira linha, seu imóvel precisa estar seguro contra infiltrações conte com os melhores.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.3rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.408rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "1.3",
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Calhas SJP CM Calhas",
+              "link": "https://www;calhassjp.com.br",
+              "title": "Calhas SJP CM Calhas",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "download",
+              "family": "et-line",
+              "link": "https://www.calhassjp.com.br",
+              "size": 0,
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.calhassjp.com.br\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CM CALHAS - (41) 3283-2444</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.calhassjp.com.br\">INÍCIO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"calheiros-sao-jose-dos-pinhais-sjp\">Calheiros em São José dos Pinhais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"troca-telhados-sao-jose-dos-pinhais\">Troca de Telhado SJP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"manuntencao-calhas-sao-jose-dos-pinhais\">Manutenção de Calhas SJP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"calhas-sao-jose-dos-pinhais\">Calhas em São José dos Pinhais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rufos-sao-jose-dos-pinhais\">Rufos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chamines-sao-jose-dos-pinhais\">Chaminés</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"condutores-sao-jose-dos-pinhais\">Condutores</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contato-orcamento-calhas-sjp\">ORÇAMENTOS</a></li>"
+        },
+        {
+          "_name": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "assets/images/banner-2000x842-80.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#605114",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "CALHAS EM SÃO JOSÉ DOS PINHAIS",
+          "text": "Calheiros de Confiança é aqui com a CM Calhas, atendemos toda São José dos Pinhais - PR. Os melhores e mais confiáveis profissionais do mercado.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"empresa-calhas-sjp\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">A EMPRESA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"contato-orcamento-calhas-sjp\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORÇAMENTOS</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-7",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Calhas em São José dos Pinhais CM",
+          "meta": "CM Calhas, empresa que você pode confiar"
+        },
+        {
+          "_inherit": "features4",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "@primaryColor",
+              "border-color": "@primaryColor"
+            }
+          },
+          "_name": "features7",
+          "_anchor": "features7-1",
+          "_params": {
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "map",
+              "family": "et-line",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title1": "Atendimento",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Atendemos toda São José dos Pinhais, faça o contato conosco e tenha certeza de um atendimento rápido, certeiro e sem dores de cabeça.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "cloud",
+              "family": "et-line",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title2": "Chuva",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "A chuva, pode causar grandes problemas quando não há um sistema confiável de calhas, infiltrações vão causar corrosões e comprometimento da estrutura do imóvel.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "briefcase",
+              "family": "et-line",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title3": "Profissionais",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "A CM Calhas tem a sua disposição os melhores profissionais de calhas da região, vamos achar rápido o problema e solucionar com maestria.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "linegraph",
+              "family": "et-line",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title4": "Vantagens",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Uma grande vantagem em orçar com a CM Calhas é o comprometimento e a honestidade da nossa equipe, evite ficar perdendo tempo fazendo vários orçamentos. Orce direto com quem pode confiar.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-9",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"calhas-sao-jose-dos-pinhais\" data-toolbar=\"-mbrBtnMove\">Calhas</a>",
+          "text": "As calhas são parte vital para seu imóvel.",
+          "title": "Calhas parte importante"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-6",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "bgColor": "#fff"
+          },
+          "text1": "<p>É sabido que as <b>calhas</b> são uma parte muito importante do imóvel, claro que elas têm uma vida útil, e é muito importante estar com tudo certo para não haver complicações, que no caso podem ir de moderado a muito grave, as infiltrações as quais são causadas por calhas mal instaladas ou deteriorando vão comprometer sem sombra de dúvidas a estrutura do imóvel. O problema caso não resolvido pode se agravar e é possível que a parede cuja a infiltração esteja acontecendo por um longo período de tempo chegue a desabar.</p>",
+          "text2": "<p>A CM <b>Calhas em São José dos Pinhais</b>, está no mercado para oferecer o melhor material para as <b>Calhas</b>, assim solucionando problemas de longevidade do material que acontece hoje no mercado. Sem falar que nossos profissionais <b>Calheiros</b> são respeitados e competentes no segmento, sendo especialistas em <b>Calhas</b> eles podem propor soluções simples para problemas complexos de infiltrações, e troca de <b>Calhas em São José dos Pinhais</b>. Contrate uma empresa de confiança e evite problemas.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-5",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "assets/images/warehouse-painting-1400x930-55.jpg",
+              "link": "",
+              "alt": "Calhas em São José dos Pinhais",
+              "title": "Calhas em São José dos Pinhais",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "CALHAS SJP",
+          "text": "Confiabilidade e segurança em <b>Calhas</b>, atendiment diferenciado e profissional",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"contato-orcamento-calhas-sjp\" data-toolbar=\"-mbrBtnMove\">CONTATO</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/additions-sunrooms-6-2000x1500-71-2000x1500-78.jpg",
+                "image": "assets/images/additions-sunrooms-6-2000x1500-71.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/coastal-beverage-01-2000x1328-5-2000x1328-44.jpg",
+                "image": "assets/images/coastal-beverage-01-2000x1328-5.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/depositphotos-10555037-m-2000x1098-59-2000x1098-59.jpg",
+                "image": "assets/images/depositphotos-10555037-m-2000x1098-59.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/flat-roofing-4-1-2000x1719-7-2000x1719-14.jpg",
+                "image": "assets/images/flat-roofing-4-1-2000x1719-7.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/eugene-handyman-service-roof-and-gutter-repair-500-334-2000x1336-31-2000x1336-31.jpg",
+                "image": "assets/images/eugene-handyman-service-roof-and-gutter-repair-500-334-2000x1336-31.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/gutter-repairs-2000x1304-82-2000x1304-21.jpg",
+                "image": "assets/images/gutter-repairs-2000x1304-82.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/flat-roofing-10-1-2000x1719-29-2000x1719-32.jpg",
+                "image": "assets/images/flat-roofing-10-1-2000x1719-29.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/gutter-2-2000x1188-25-2000x1188-31.jpg",
+                "image": "assets/images/gutter-2-2000x1188-25.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/images234-2000x1332-71-2000x1332-76.jpg",
+                "image": "assets/images/images234-2000x1332-71.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/3064068-2000x1335-47-2000x1335-66.jpg",
+                "image": "assets/images/3064068-2000x1335-47.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-3",
+          "articleLayout": false
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Empresarial Web."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts4-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Endereço</b></span></font><br>\nRua Isabel A. Redentora, 2790<br>\nCuritiba - Par\baná<br><br><br>\n<strong>Contato</strong><br>\nEmail: contato@calhassjp.com.br<br>\nFone: (41) 3283-2444<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"calhas-sao-jose-dos-pinhais\" target=\"_blank\">Calhas</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a class=\"text-white\" href=\"calheiros-sao-jose-dos-pinhais-sjp\" target=\"_blank\">Calheiros São José dos Pinhais</a></li><br></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "contato@calhassjp.com.br",
+            "alerts": {
+              "success": "Entratemos em Contato o Mais Rápido Possível!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Fone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensagem"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contato</a>"
+        }
+      ]
+    },
+    "calhas-sao-jose-dos-pinhais.html": {
+      "settings": {
+        "title": "Calhas em São José dos Pinhais (41) 3283-2444",
+        "meta_descr": "A CM Calhas Atende toda Sâo José dos Pinhias, contamos com os melhores Calheiros de SJP, especialistas em Calhas, rufos, condutores e sistemas para telhado."
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.3rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.408rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "1.3",
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Calhas SJP CM Calhas",
+              "link": "https://www;calhassjp.com.br",
+              "title": "Calhas SJP CM Calhas",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "download",
+              "family": "et-line",
+              "link": "https://www.calhassjp.com.br",
+              "size": 0,
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.calhassjp.com.br\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CM CALHAS - (41) 3283-2444</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.calhassjp.com.br\">INÍCIO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"calheiros-sao-jose-dos-pinhais-sjp\">Calheiros em São José dos Pinhais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"troca-telhados-sao-jose-dos-pinhais\">Troca de Telhado SJP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"manuntencao-calhas-sao-jose-dos-pinhais\">Manutenção de Calhas SJP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"calhas-sao-jose-dos-pinhais\">Calhas em São José dos Pinhais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rufos-sao-jose-dos-pinhais\">Rufos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chamines-sao-jose-dos-pinhais\">Chaminés</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"condutores-sao-jose-dos-pinhais\">Condutores</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contato-orcamento-calhas-sjp\">ORÇAMENTOS</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Empresarial Web."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "Calhas em São José dos Pinhais",
+          "meta": "Escolha certa para executar a fabricação de Calhas"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-7",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Calhas em São José dos Pinhais</b> são uma coisa que deve ser levado a sério, as chuvas não perdoam e podem trazer muitos prejuízos se não existir um sistema de <b>Calhas</b> eficiente, além disso o material deve ser muito resistente, só assim é possível evitar problemas futuros com as <b>Calhas</b>. Um bom material é muito importante para que assim seja possível assegurar a longevidade e qualidade das <b>Calhas em São José dos Pinhais</b>.</p>",
+          "text2": "<p>Somos fabricantes de <b>Calhas em São José dos Pinhais</b>, entregamos todo o projeto de <b>Calhas</b> conforme solicitado, as chapas são dobradas com precisão para que assim elas possam encaixar no telhado vide projeto, sabemos que um projeto que não é seguido à risca vai causar a perca de material e emendas não planejadas que dependendo da forma que é feita a <b>Calha</b> vão causar problemas no <b>projeto de Calhas no telhado</b> do imóvel.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "assets/images/1-600x397-7.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Calhas em São José dos Pinhais",
+              "title": "Calhas em São José dos Pinhais",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Calhas",
+          "subtitle1": "Projeto deve ser segdo a risca",
+          "caption1": "As <b>Calhas</b> para ser instaladas são fabricadas conforme o projeto apresentado o qual é especifico para cada telhado e formas que vão ser instaladas.",
+          "button1": "<a data-app-btn=\"true\" href=\"calhas-sao-jose-dos-pinhais\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CALHAS</a>",
+          "media2": {
+            "image": {
+              "src": "assets/images/2-600x397-93.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Rufos em São José dos Pinhais",
+              "title": "Rufos em São José dos Pinhais",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Rufos",
+          "subtitle2": "Rufos, parte fundamente do sistema para seu telhado",
+          "caption2": "Os <b>rufos</b> são parte importante para complementar o sistema de escoamento de água no telhado, servem no auxílio da condução da água.",
+          "button2": "<a data-app-btn=\"true\" href=\"rufos-sao-jose-dos-pinhais\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">RUFOS</a>",
+          "media3": {
+            "image": {
+              "src": "assets/images/3-600x397-96.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Calheiro em São José dos Pinhais",
+              "title": "Calheiro em São José dos Pinhais",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Calheiro",
+          "subtitle3": "Mão de Obra, confiança e garantia",
+          "caption3": "A mão de obra é em especial a parte mais importante quando o assunto são <b>Calhas em São José dos Pinhais</b>, um projeto bem executado aumenta a vida util.",
+          "button3": "<a data-app-btn=\"true\" href=\"calheiros-sao-jose-dos-pinhais-sjp\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CALHEIROS</a>",
+          "media4": {
+            "image": {
+              "src": "assets/images/4-600x397-48.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Condutores em São José dos Pinhais",
+              "title": "Condutores em São José dos Pinhais",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Condutores",
+          "subtitle4": "Condutores para sistema de telhado",
+          "caption4": "<b>Condutores em São José dos Pinhais</b>, são parte fundamental do sistema que compõe a solução para condução de água para o local certo do seu telhado.",
+          "button4": "<a data-app-btn=\"true\" href=\"condutores-sao-jose-dos-pinhais\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CONDUTORES</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-8",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b>Calhas em São José dos Pinhais</b>, são usadas em todas as <b>Obras, Casas, Edificações, Condomínios, Barracões</b> e etc. além de um material de qualidade é necessário que na hora da fabricação das <b>Calhas</b> o projeto seja sendo a risca, profissionais qualificados são importantes para que tudo sai correto e só assim é possível que seja evitado o retrabalho. Confiança e responsabilidade nos projetos de <b>Calhas em São José</b> é conosco.</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-9",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>As <b>calhas</b> devem ser fabricadas e instaladas por profissionais qualificados, assim como dispomos aqui na <b>CM Calhas</b>. Confiança e responsabilidade na hora da fabricação são fundamentais para um projeto bem-acabado e seguro. Garantia de um <b>serviço de Calhas em São José dos Pinhais</b>.</p>",
+          "text2": "<p>Hora do <b>orçamento de calhas em São José dos Pinhais</b>. Todo o Processo é importante, desde o início a partir de um orçamento bem executado e sem erros, um <a href=\"calheiros-sao-jose-dos-pinhais-sjp\"><b>Calheiro</b></a> sem experiência não vai conseguir orçar corretamente e planejar o complexo sistema de calhas com precisão.</p>",
+          "text3": "<p>Tenha certeza de contratar uma empresa com experiência e além disso com profissionais cofiáveis, orçamentistas comprometidos com um projeto bem feito é parte essencial do processo de planejamento das <b>Calhas em SJP</b>.</p>"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-3",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "Calhas São José dos Pinhais",
+          "text": "<p>Orçamentistas confiáveis, projetos de Calhas bem executados e fabricação precisa das <b>Calhas aqui em São José dos Pinhais</b>.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"contato-orcamento-calhas-sjp\" data-toolbar=\"-mbrBtnMove\">ORÇAMENTOS</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts4-2",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Endereço</b></span></font><br>\nRua Isabel A. Redentora, 2790<br>\nCuritiba - Par\baná<br><br><br>\n<strong>Contato</strong><br>\nEmail: contato@calhassjp.com.br<br>\nFone: (41) 3283-2444<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"calhas-sao-jose-dos-pinhais\" target=\"_blank\">Calhas</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a class=\"text-white\" href=\"calheiros-sao-jose-dos-pinhais-sjp\" target=\"_blank\">Calheiros São José dos Pinhais</a></li><br></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "contato@calhassjp.com.br",
+            "alerts": {
+              "success": "Entratemos em Contato o Mais Rápido Possível!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Fone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensagem"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contato</a>"
+        }
+      ]
+    },
+    "rufos-sao-jose-dos-pinhais.html": {
+      "settings": {
+        "title": "Rufos em São José dos Pinhais (41) 3283-2444",
+        "meta_descr": "Atendemos a necessidade Rufos em\b Sâo José dos Pinhais, empresa de confiança e comprometida com um ótimo material."
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.3rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.408rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-c",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "1.3",
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Calhas SJP CM Calhas",
+              "link": "https://www;calhassjp.com.br",
+              "title": "Calhas SJP CM Calhas",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "download",
+              "family": "et-line",
+              "link": "https://www.calhassjp.com.br",
+              "size": 0,
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.calhassjp.com.br\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CM CALHAS - (41) 3283-2444</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.calhassjp.com.br\">INÍCIO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"calheiros-sao-jose-dos-pinhais-sjp\">Calheiros em São José dos Pinhais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"troca-telhados-sao-jose-dos-pinhais\">Troca de Telhado SJP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"manuntencao-calhas-sao-jose-dos-pinhais\">Manutenção de Calhas SJP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"calhas-sao-jose-dos-pinhais\">Calhas em São José dos Pinhais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rufos-sao-jose-dos-pinhais\">Rufos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chamines-sao-jose-dos-pinhais\">Chaminés</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"condutores-sao-jose-dos-pinhais\">Condutores</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contato-orcamento-calhas-sjp\">ORÇAMENTOS</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-d",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Empresarial Web."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-e",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "Rufos em São José dos Pinhais",
+          "meta": "Escolha certa para executar a fabricação de Rufos"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-f",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Rufos em São José dos Pinhais</b> são importantes para ajudar a leva a água até o local correto, assim como Calhas os &nbsp;Rufos são de suma importância para evitar problemas com infiltrações e desvalorização do imóvel. Além disso o material deve ser muito resistente, só assim é possível evitar problemas futuros com as <b>Rufos</b>. Um bom material é muito importante para que assim seja possível assegurar a longevidade e qualidade das <b>Rufos em São José dos Pinhais</b>.</p>",
+          "text2": "<p>Somos fabricantes de <b>Rufos em São José dos Pinhais</b>, entregamos todo o projeto de <b>Rufos</b> conforme solicitado, as chapas têm várias espessuras e são escolhidas de acordo com a obra dobradas com precisão só assim o <b>Calheiro</b> vai poder instalar corretamente, e desta forma os <b>Rufos</b> vão evitar problemas de infiltrações por isso da importância do projeto de <b>Rufos no telhado do imóvel</b>, atendimento para toda <b>São José dos Pinhais</b>.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-g",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "assets/images/160931rufos1-600x397-56.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Rufos em São José dos Pinhais",
+              "title": "Rufos em São José dos Pinhais",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Calhas",
+          "subtitle1": "Projeto deve ser segdo a risca",
+          "caption1": "As <b>Calhas</b> para ser instaladas são fabricadas conforme o projeto apresentado o qual é especifico para cada telhado e formas que vão ser instaladas.",
+          "button1": "<a data-app-btn=\"true\" href=\"calhas-sao-jose-dos-pinhais\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CALHAS</a>",
+          "media2": {
+            "image": {
+              "src": "assets/images/1336174389-369771770-1-fotos-de-calhas-e-rufos-600x397-20.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Rufos",
+              "title": "Rufos",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Rufos",
+          "subtitle2": "Rufos, parte fundamente do sistema para seu telhado",
+          "caption2": "Os <b>rufos</b> são parte importante para complementar o sistema de escoamento de água no telhado, servem no auxílio da condução da água.",
+          "button2": "<a data-app-btn=\"true\" href=\"rufos-sao-jose-dos-pinhais\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">RUFOS</a>",
+          "media3": {
+            "image": {
+              "src": "assets/images/ds-600x397-73.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Instalação de Rufos São José dos Pinhais",
+              "title": "Instalação de Rufos São José dos Pinhais",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Calheiro",
+          "subtitle3": "Mão de Obra, confiança e garantia",
+          "caption3": "A mão de obra é em especial a parte mais importante quando o assunto são <b>Rufos em São José dos Pinhais</b>, um projeto bem executado aumenta a vida util.",
+          "button3": "<a data-app-btn=\"true\" href=\"calheiros-sao-jose-dos-pinhais-sjp\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CALHEIROS</a>",
+          "media4": {
+            "image": {
+              "src": "assets/images/rufos-em-americana-7-600x397-96.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Condutores em São José dos Pinhais",
+              "title": "Condutores em São José dos Pinhais",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Condutores",
+          "subtitle4": "Condutores para sistema de telhado",
+          "caption4": "<b>Condutores em São José dos Pinhais</b>, são parte fundamental do sistema que compõe a solução para condução de água para o local certo do seu telhado.",
+          "button4": "<a data-app-btn=\"true\" href=\"condutores-sao-jose-dos-pinhais\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CONDUTORES</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-h",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b>Rufos em São José dos Pinhais</b>, são usadas em todas as <b>Obras, Casas, Edificações, Condomínios, Barracões</b> e etc. além de um material de qualidade é necessário que na hora da fabricação das <b>Rufos</b> o projeto seja sendo a risca, profissionais qualificados são importantes para que tudo sai correto e só assim é possível que seja evitado o retrabalho. Confiança e responsabilidade nos projetos de <b>Rufos em São José</b> é conosco.</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>As <b>Rufos</b> devem ser fabricadas e instaladas por profissionais qualificados, assim como dispomos aqui na <b>CM Rufos</b>. Confiança e responsabilidade na hora da fabricação são fundamentais para um projeto bem-acabado e seguro. Garantia de um <b>serviço de Rufos em São José dos Pinhais</b>.</p>",
+          "text2": "<p>Hora do <b>orçamento de Rufos em São José dos Pinhais</b>. Todo o Processo é importante, desde o início a partir de um orçamento bem executado e sem erros, um <a href=\"calheiros-sao-jose-dos-pinhais-sjp\"><b>Calheiro</b></a> sem experiência não vai conseguir orçar corretamente e planejar o complexo sistema de calhas com precisão.</p>",
+          "text3": "<p>Tenha certeza de contratar uma empresa com experiência e além disso com profissionais cofiáveis, orçamentistas comprometidos com um projeto bem feito é parte essencial do processo de planejamento das <b>Rufos em SJP</b>.</p>"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-j",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "Rufos São José dos Pinhais",
+          "text": "<p>Orçamentistas confiáveis, projetos de Calhas bem executados e fabricação precisa das <b>Rufos aqui em São José dos Pinhais</b>.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"contato-orcamento-calhas-sjp\" data-toolbar=\"-mbrBtnMove\">ORÇAMENTOS</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts4-k",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Endereço</b></span></font><br>\nRua Isabel A. Redentora, 2790<br>\nCuritiba - Par\baná<br><br><br>\n<strong>Contato</strong><br>\nEmail: contato@calhassjp.com.br<br>\nFone: (41) 3283-2444<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"calhas-sao-jose-dos-pinhais\" target=\"_blank\">Calhas</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a class=\"text-white\" href=\"calheiros-sao-jose-dos-pinhais-sjp\" target=\"_blank\">Calheiros São José dos Pinhais</a></li><br></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "contato@calhassjp.com.br",
+            "alerts": {
+              "success": "Entratemos em Contato o Mais Rápido Possível!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Fone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensagem"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contato</a>"
+        }
+      ]
+    },
+    "chamines-sao-jose-dos-pinhais.html": {
+      "settings": {
+        "title": "Chaminés em São José dos Pinhais (41) 3283-2444",
+        "meta_descr": "Fabricamos e Instalamos Chaminés em São José dos Pinhais, qualquer necessidade de manutenção e fabricação conte conosco."
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.3rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.408rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-l",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "1.3",
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Calhas SJP CM Calhas",
+              "link": "https://www;calhassjp.com.br",
+              "title": "Calhas SJP CM Calhas",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "download",
+              "family": "et-line",
+              "link": "https://www.calhassjp.com.br",
+              "size": 0,
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.calhassjp.com.br\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CM CALHAS - (41) 3283-2444</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.calhassjp.com.br\">INÍCIO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"calheiros-sao-jose-dos-pinhais-sjp\">Calheiros em São José dos Pinhais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"troca-telhados-sao-jose-dos-pinhais\">Troca de Telhado SJP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"manuntencao-calhas-sao-jose-dos-pinhais\">Manutenção de Calhas SJP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"calhas-sao-jose-dos-pinhais\">Calhas em São José dos Pinhais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rufos-sao-jose-dos-pinhais\">Rufos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chamines-sao-jose-dos-pinhais\">Chaminés</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"condutores-sao-jose-dos-pinhais\">Condutores</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contato-orcamento-calhas-sjp\">ORÇAMENTOS</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-m",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Empresarial Web."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-n",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "Chaminés em São José dos Pinhais",
+          "meta": "Escolha certa para executar a fabricação de Chaminés"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Chaminés em São José dos Pinhais</b> são importantes para ajudar a leva a água até o local correto, assim como Calhas os &nbsp;Rufos são de suma importância para evitar problemas com infiltrações e desvalorização do imóvel. Além disso o material deve ser muito resistente, só assim é possível evitar problemas futuros com as <b>Chaminés</b>. Um bom material é muito importante para que assim seja possível assegurar a longevidade e qualidade das <b>Chaminés em São José dos Pinhais</b>.</p>",
+          "text2": "<p>Somos fabricantes de <b>Chaminés em São José dos Pinhais</b>, entregamos todo o projeto de <b>Chaminés</b> conforme solicitado, as chapas têm várias espessuras e são escolhidas de acordo com a obra dobradas com precisão só assim o <b>Calheiro</b> vai poder instalar corretamente, e desta forma os <b>Chaminés</b> vão evitar problemas de infiltrações por isso da importância do projeto de <b>Chaminés no telhado do imóvel</b>, atendimento para toda <b>São José dos Pinhais</b>.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-p",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "assets/images/4969-big-600x397-96.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Chaminés em São José dos Pinhais",
+              "title": "Chaminés em São José dos Pinhais",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Chaminés",
+          "subtitle1": "Projeto deve ser segdo a risca",
+          "caption1": "As <b>Chaminés</b>&nbsp;para ser instaladas são fabricadas conforme o projeto apresentado o qual é especifico para cada telhado e formas que vão ser instaladas.",
+          "button1": "<a data-app-btn=\"true\" href=\"calhas-sao-jose-dos-pinhais\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CALHAS</a>",
+          "media2": {
+            "image": {
+              "src": "assets/images/aspiratori-per-camino-aspiratore-per-camino-aspirafumo-per-camini-a-legna-tirafumo-tiracamino-600x397-26.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Chaminés",
+              "title": "Chaminés",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Restaurantes",
+          "subtitle2": "Rufos, parte fundamente do sistema para seu telhado",
+          "caption2": "Os <b>Chaminés</b>&nbsp;são parte importante para restaurante, assim podendo direcionar para onde e como sai a fumaça gerada pelos fornos.",
+          "button2": "<a data-app-btn=\"true\" href=\"rufos-sao-jose-dos-pinhais\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">RUFOS</a>",
+          "media3": {
+            "image": {
+              "src": "assets/images/ch3-600x397-95.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Instalação de Chaminés São José dos Pinhais",
+              "title": "Instalação de Chaminés São José dos Pinhais",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Calheiro",
+          "subtitle3": "Mão de Obra, confiança e garantia",
+          "caption3": "A mão de obra é em especial a parte mais importante quando o assunto são <b>Chaminés em São José dos Pinhais</b>, um projeto bem executado aumenta a vida util.",
+          "button3": "<a data-app-btn=\"true\" href=\"calheiros-sao-jose-dos-pinhais-sjp\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CALHEIROS</a>",
+          "media4": {
+            "image": {
+              "src": "assets/images/funilaria-gs-correa-canoas-guajuviras-calhas-algerosas-chamines-instalacao-porto-alegre-coifas-7-1-600x397-16.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Chaminés instalação",
+              "title": "Chaminés instalação",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Fabricação",
+          "subtitle4": "Condutores para sistema de telhado",
+          "caption4": "<b>Chaminés&nbsp;em São José dos Pinhais</b>, são fabricadas e oferecidas aqui em São José pela CM Calhas, somos uma empresa &nbsp;referência em <b>Chaminés</b>.",
+          "button4": "<a data-app-btn=\"true\" href=\"condutores-sao-jose-dos-pinhais\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CONDUTORES</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b>Chaminés em São José dos Pinhais</b>, são usadas em todas as <b>Obras, Casas, Edificações, Condomínios, Barracões</b> e etc. além de um material de qualidade é necessário que na hora da fabricação das <b>Chaminés</b> o projeto seja sendo a risca, profissionais qualificados são importantes para que tudo sai correto e só assim é possível que seja evitado o retrabalho. Confiança e responsabilidade nos projetos de <b>Chaminés em São José</b> é conosco.</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>As <b>Chaminés</b> devem ser fabricadas e instaladas por profissionais qualificados, assim como dispomos aqui na <b>CM Chaminés</b>&nbsp;Confiança e responsabilidade na hora da fabricação são fundamentais para um projeto bem-acabado e seguro. Garantia de um <b>serviço de Chaminés em São José dos Pinhais</b>.</p>",
+          "text2": "<p>Hora do <b>orçamento de Chaminés em São José dos Pinhais</b>. Todo o Processo é importante, desde o início a partir de um orçamento bem executado e sem erros, um <a href=\"calheiros-sao-jose-dos-pinhais-sjp\"><b>Calheiro</b></a> sem experiência não vai conseguir orçar corretamente e planejar o complexo sistema de calhas com precisão.</p>",
+          "text3": "<p>Tenha certeza de contratar uma empresa com experiência e além disso com profissionais cofiáveis, orçamentistas comprometidos com um projeto bem feito é parte essencial do processo de planejamento das <b>Chaminés em SJP</b>.</p>"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-s",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "Chaminés São José dos Pinhais",
+          "text": "<p>Orçamentistas confiáveis, projetos de Calhas bem executados e fabricação precisa das <b>Chaminés aqui em São José dos Pinhais</b>.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"contato-orcamento-calhas-sjp\" data-toolbar=\"-mbrBtnMove\">ORÇAMENTOS</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts4-t",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Endereço</b></span></font><br>\nRua Isabel A. Redentora, 2790<br>\nCuritiba - Par\baná<br><br><br>\n<strong>Contato</strong><br>\nEmail: contato@calhassjp.com.br<br>\nFone: (41) 3283-2444<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"calhas-sao-jose-dos-pinhais\" target=\"_blank\">Calhas</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a class=\"text-white\" href=\"calheiros-sao-jose-dos-pinhais-sjp\" target=\"_blank\">Calheiros São José dos Pinhais</a></li><br></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "contato@calhassjp.com.br",
+            "alerts": {
+              "success": "Entratemos em Contato o Mais Rápido Possível!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Fone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensagem"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contato</a>"
+        }
+      ]
+    },
+    "condutores-sao-jose-dos-pinhais.html": {
+      "settings": {
+        "title": "Condutores em São José dos Pinhais (41) 3283-2444",
+        "meta_descr": "Condutores em Sâo José dos Pinhias, contamos com os melhores Calheiros de SJP, especialistas em Calhas, rufos, condutores e sistemas para telhado."
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.3rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.408rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-u",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "1.3",
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Calhas SJP CM Calhas",
+              "link": "https://www;calhassjp.com.br",
+              "title": "Calhas SJP CM Calhas",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "download",
+              "family": "et-line",
+              "link": "https://www.calhassjp.com.br",
+              "size": 0,
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.calhassjp.com.br\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CM CALHAS - (41) 3283-2444</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.calhassjp.com.br\">INÍCIO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"calheiros-sao-jose-dos-pinhais-sjp\">Calheiros em São José dos Pinhais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"troca-telhados-sao-jose-dos-pinhais\">Troca de Telhado SJP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"manuntencao-calhas-sao-jose-dos-pinhais\">Manutenção de Calhas SJP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"calhas-sao-jose-dos-pinhais\">Calhas em São José dos Pinhais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rufos-sao-jose-dos-pinhais\">Rufos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chamines-sao-jose-dos-pinhais\">Chaminés</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"condutores-sao-jose-dos-pinhais\">Condutores</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contato-orcamento-calhas-sjp\">ORÇAMENTOS</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-v",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Empresarial Web."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-w",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "Condutores em São José dos Pinhais",
+          "meta": "Escolha certa para executar a fabricação de Condutores"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Condutores em São José dos Pinhais</b> são uma coisa que deve ser levado a sério, as chuvas não perdoam e podem trazer muitos prejuízos se não existir um sistema de <b>Condutores</b> eficiente, além disso o material deve ser muito resistente, só assim é possível evitar problemas futuros com as <b>Condutores</b>. Um bom material é muito importante para que assim seja possível assegurar a longevidade e qualidade das <b>Condutores em São José dos Pinhais</b>.</p>",
+          "text2": "<p>Somos fabricantes de <b>Condutores em São José dos Pinhais</b>, entregamos todo o projeto de <b>Condutores</b> conforme solicitado, as chapas são dobradas com precisão para que assim elas possam encaixar no telhado vide projeto, sabemos que um projeto que não é seguido à risca vai causar a perca de material e emendas não planejadas que dependendo da forma que é feita a <b>Condutores</b> vão causar problemas no <b>projeto de Condutores</b>&nbsp;do imóvel.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-y",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "assets/images/1-600x397-7.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Calhas em São José dos Pinhais",
+              "title": "Calhas em São José dos Pinhais",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Calhas",
+          "subtitle1": "Projeto deve ser segdo a risca",
+          "caption1": "As <b>Calhas</b> para ser instaladas são fabricadas conforme o projeto apresentado o qual é especifico para cada telhado e formas que vão ser instaladas.",
+          "button1": "<a data-app-btn=\"true\" href=\"calhas-sao-jose-dos-pinhais\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CALHAS</a>",
+          "media2": {
+            "image": {
+              "src": "assets/images/2-600x397-93.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Rufos em São José dos Pinhais",
+              "title": "Rufos em São José dos Pinhais",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Rufos",
+          "subtitle2": "Rufos, parte fundamente do sistema para seu telhado",
+          "caption2": "Os <b>rufos</b> são parte importante para complementar o sistema de escoamento de água no telhado, servem no auxílio da condução da água.",
+          "button2": "<a data-app-btn=\"true\" href=\"rufos-sao-jose-dos-pinhais\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">RUFOS</a>",
+          "media3": {
+            "image": {
+              "src": "assets/images/3-600x397-96.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Calheiro em São José dos Pinhais",
+              "title": "Calheiro em São José dos Pinhais",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Calheiro",
+          "subtitle3": "Mão de Obra, confiança e garantia",
+          "caption3": "A mão de obra é em especial a parte mais importante quando o assunto são <b>Calhas em São José dos Pinhais</b>, um projeto bem executado aumenta a vida util.",
+          "button3": "<a data-app-btn=\"true\" href=\"calheiros-sao-jose-dos-pinhais-sjp\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CALHEIROS</a>",
+          "media4": {
+            "image": {
+              "src": "assets/images/4-600x397-48.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Condutores em São José dos Pinhais",
+              "title": "Condutores em São José dos Pinhais",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Condutores",
+          "subtitle4": "Condutores para sistema de telhado",
+          "caption4": "<b>Condutores em São José dos Pinhais</b>, são parte fundamental do sistema que compõe a solução para condução de água para o local certo do seu telhado.",
+          "button4": "<a data-app-btn=\"true\" href=\"condutores-sao-jose-dos-pinhais\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CONDUTORES</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-z",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b>Condutores em São José dos Pinhais</b>, são usadas em todas as <b>Obras, Casas, Edificações, Condomínios, Barracões</b> e etc. além de um material de qualidade é necessário que na hora da fabricação das <b>Condutores</b> o projeto seja sendo a risca, profissionais qualificados são importantes para que tudo sai correto e só assim é possível que seja evitado o retrabalho. Confiança e responsabilidade nos projetos de <b>Calhas em São José</b> é conosco.</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-10",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>As <b>Condutores</b> devem ser fabricadas e instaladas por profissionais qualificados, assim como dispomos aqui na <b>CM Condutores</b>. Confiança e responsabilidade na hora da fabricação são fundamentais para um projeto bem-acabado e seguro. Garantia de um <b>serviço de Condutores em São José dos Pinhais</b>.</p>",
+          "text2": "<p>Hora do <b>orçamento de Condutores em São José dos Pinhais</b>. Todo o Processo é importante, desde o início a partir de um orçamento bem executado e sem erros, um <a href=\"calheiros-sao-jose-dos-pinhais-sjp\"><b>Calheiro</b></a> sem experiência não vai conseguir orçar corretamente e planejar o complexo sistema de calhas com precisão.</p>",
+          "text3": "<p>Tenha certeza de contratar uma empresa com experiência e além disso com profissionais cofiáveis, orçamentistas comprometidos com um projeto bem feito é parte essencial do processo de planejamento das <b>Condutores em SJP</b>.</p>"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-11",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "Condutores São José dos Pinhais",
+          "text": "<p>Orçamentistas confiáveis, projetos de Calhas bem executados e fabricação precisa das <b>Condutores aqui em São José dos Pinhais</b>.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"contato-orcamento-calhas-sjp\" data-toolbar=\"-mbrBtnMove\">ORÇAMENTOS</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts4-12",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Endereço</b></span></font><br>\nRua Isabel A. Redentora, 2790<br>\nCuritiba - Par\baná<br><br><br>\n<strong>Contato</strong><br>\nEmail: contato@calhassjp.com.br<br>\nFone: (41) 3283-2444<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"calhas-sao-jose-dos-pinhais\" target=\"_blank\">Calhas</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a class=\"text-white\" href=\"calheiros-sao-jose-dos-pinhais-sjp\" target=\"_blank\">Calheiros São José dos Pinhais</a></li><br></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "contato@calhassjp.com.br",
+            "alerts": {
+              "success": "Obrigado, entratemos em contato rapidamente!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Fone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensagem"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contato</a>"
+        }
+      ]
+    },
+    "calheiros-sao-jose-dos-pinhais-sjp.html": {
+      "settings": {
+        "title": "Calheiros em São José dos Pinhais (41) 3283-2444",
+        "meta_descr": "Os Melhores Calheiros em São José dos Pinhais são nossos colaboradores da CM Calhas. Pode contar conosco."
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.3rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.408rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-13",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "1.3",
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Calhas SJP CM Calhas",
+              "link": "https://www;calhassjp.com.br",
+              "title": "Calhas SJP CM Calhas",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "download",
+              "family": "et-line",
+              "link": "https://www.calhassjp.com.br",
+              "size": 0,
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.calhassjp.com.br\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CM CALHAS - (41) 3283-2444</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.calhassjp.com.br\">INÍCIO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"calheiros-sao-jose-dos-pinhais-sjp\">Calheiros em São José dos Pinhais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"troca-telhados-sao-jose-dos-pinhais\">Troca de Telhado SJP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"manuntencao-calhas-sao-jose-dos-pinhais\">Manutenção de Calhas SJP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"calhas-sao-jose-dos-pinhais\">Calhas em São José dos Pinhais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rufos-sao-jose-dos-pinhais\">Rufos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chamines-sao-jose-dos-pinhais\">Chaminés</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"condutores-sao-jose-dos-pinhais\">Condutores</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contato-orcamento-calhas-sjp\">ORÇAMENTOS</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-14",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Empresarial Web."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-18",
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Calheiros em São José dos Pinhais",
+          "meta": "Os melhores calheiros da região"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "36px",
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "msg-box5-17",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "assets/images/400px-l-fig36-1400x871-32.png",
+              "link": "",
+              "alt": "Calheiros em São José dos Pinhais",
+              "title": "Calheiros em São José dos Pinhais",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Trabalho confiavel e material de primeira",
+          "text": "Mão de obra de primeira, confiança e responsabilidade de ótimos profissionais, entre em contato conosco e vamos fazer o melhor pelo seu imóvel..",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"contato-orcamento-calhas-sjp\" data-toolbar=\"-mbrBtnMove\">ORÇAMENTO</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-19",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>A Chuva pode ser muito perigosa para seu imóvel, por isso as <b>Calhas</b> são tão importantes, e tão importantes quanto as próprias <b>Calhas</b> são so <b>Calheiros em São José dos Pinhais</b>, sem profissionais competentes os imóveis correm sério risco de infiltrações, corrosões e consequentemente degradação, vamos evitar isso junto com nossos profissionais capacitados prevenir deteriorações do imóvel com um sistema correto de <b>Calhas</b>.</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1b",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>A <b>CM Calhas</b> conta com os melhores <b>Calheiros em São José dos Pinhais</b>, conte conosco para realizar seu projeto de maneira rápida e profissional, o melhor material não é o suficiente sem a mão de obra correta. Encontrar profissionais confiáveis no mercado sabemos que é difícil, então para que ficar fazendo dezenas de orçamento quando você pode contar com a <b>CM Calhas</b>, uma empresa com valores.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1c",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Nossos <b>Calheiros em São José dos Pinhais</b> fazem o trabalho mais rápido honesto e com precisão da região, confiança que somam anos no mercado e tradição de um portfólio invejável de empresas já atendidas com máxima destreza e profissionalismo. <b>Calhas em São José dos Pinhais</b> é coisa séria e levamos isso à risca, absolutamente fazemos o melhor para atender nossos clientes.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"contato-orcamento-calhas-sjp\" data-toolbar=\"-mbrBtnMove\">CONTATO</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts4-15",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Endereço</b></span></font><br>\nRua Isabel A. Redentora, 2790<br>\nCuritiba - Par\baná<br><br><br>\n<strong>Contato</strong><br>\nEmail: contato@calhassjp.com.br<br>\nFone: (41) 3283-2444<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"calhas-sao-jose-dos-pinhais\" target=\"_blank\">Calhas</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a class=\"text-white\" href=\"calheiros-sao-jose-dos-pinhais-sjp\" target=\"_blank\">Calheiros São José dos Pinhais</a></li><br></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "contato@calhassjp.com.br",
+            "alerts": {
+              "success": "Obrigado, entratemos em contato rapidamente!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Fone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensagem"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contato</a>"
+        }
+      ]
+    },
+    "troca-telhados-sao-jose-dos-pinhais": {
+      "settings": {
+        "title": "Troca de Telhado em São José dos Pinhais (41) 3283-2444",
+        "meta_descr": "Realizamos Troca de Telhado em São José dos Pinhais, serviço e empresa confiável, conte conosco!"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.3rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.408rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-1g",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "1.3",
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Calhas SJP CM Calhas",
+              "link": "https://www;calhassjp.com.br",
+              "title": "Calhas SJP CM Calhas",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "download",
+              "family": "et-line",
+              "link": "https://www.calhassjp.com.br",
+              "size": 0,
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.calhassjp.com.br\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CM CALHAS - (41) 3283-2444</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.calhassjp.com.br\">INÍCIO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"calheiros-sao-jose-dos-pinhais-sjp\">Calheiros em São José dos Pinhais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"troca-telhados-sao-jose-dos-pinhais\">Troca de Telhado SJP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"manuntencao-calhas-sao-jose-dos-pinhais\">Manutenção de Calhas SJP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"calhas-sao-jose-dos-pinhais\">Calhas em São José dos Pinhais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rufos-sao-jose-dos-pinhais\">Rufos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chamines-sao-jose-dos-pinhais\">Chaminés</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"condutores-sao-jose-dos-pinhais\">Condutores</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contato-orcamento-calhas-sjp\">ORÇAMENTOS</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-1h",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Empresarial Web."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1i",
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Troca de Telhado em São José dos Pinhais",
+          "meta": "Os melhores calheiros da região"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "36px",
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box5-1j",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "assets/images/img-02221-1400x1159-22.jpg",
+              "link": "",
+              "alt": "Calheiros em São José dos Pinhais",
+              "title": "Calheiros em São José dos Pinhais",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Troca de Telhado em Sao José dos Pinhais",
+          "text": "Realizamos um serviço rápido de <b>troca de telhado em São José dos Pinhais</b>, pode contar conosco, entre em contato e solicite um orçamento.",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"contato-orcamento-calhas-sjp\" data-toolbar=\"-mbrBtnMove\">ORÇAMENTO</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1k",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Uma hora ou outra pode ser que haja a necessidade de troca de telhado em São José dos Pinhais, seja por deterioração pelo tempo ou pela ação da natureza, fortes chuvas e ventos podem danificar seriamente a estrutura e a única solução acabar sendo a Troca do Telhado, então se este for o caso conte conosco para realizar o melhor serviço possível.</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>A CM Calhas, oferece o serviço de <b>troca de telhados em São José dos Pinhais</b>, nosso profissional tem essa aptidão por estarem a anos no mercado, nossa empresa a cada serviço adquire mais e mais experiência então pode confiar, por que temos um portfólio excelente para consulta de serviços anteriores. Entre em contato conosco, tire dúvidas e tenha a certeza que vamos realizar o melhor serviço de <b>troca de telhados de Sâo José dos Pinhais</b>.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Nossos <b>Calheiros</b> fazem o trabalho mais rápido e honesto, a <b>troca de telhados em São José dos Pinhais</b> não é uma coisa simples e requer muita experiência precisão e destreza. Nossos colaboradores são treinados e qualificados para este tipo de trabalho em <b>São José dos Pinhais</b>, entre em contato conosco solicite um orçamento para <b>Troca de Telhado em São José dos Pinhais</b>, tire dúvidas e tenha a certeza de uma empresa idônea realizando o trabalho..</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1n",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"contato-orcamento-calhas-sjp\" data-toolbar=\"-mbrBtnMove\">CONTATO</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts4-1o",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Endereço</b></span></font><br>\nRua Isabel A. Redentora, 2790<br>\nCuritiba - Par\baná<br><br><br>\n<strong>Contato</strong><br>\nEmail: contato@calhassjp.com.br<br>\nFone: (41) 3283-2444<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"calhas-sao-jose-dos-pinhais\" target=\"_blank\">Calhas</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a class=\"text-white\" href=\"calheiros-sao-jose-dos-pinhais-sjp\" target=\"_blank\">Calheiros São José dos Pinhais</a></li><br></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "contato@calhassjp.com.br",
+            "alerts": {
+              "success": "Obrigado, entratemos em contato rapidamente!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Fone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensagem"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contato</a>"
+        }
+      ]
+    },
+    "manuntencao-calhas-sao-jose-dos-pinhais.html": {
+      "settings": {
+        "title": "Manutenção de Calhas em São José dos Pinhais (41) 3283-2444",
+        "meta_descr": "Manutenção de Calhas em São José dos Pinhais é com nossos calheiros da CM Calhas. Pode contar conosco."
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.3rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.408rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-1p",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "1.3",
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Calhas SJP CM Calhas",
+              "link": "https://www;calhassjp.com.br",
+              "title": "Calhas SJP CM Calhas",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "download",
+              "family": "et-line",
+              "link": "https://www.calhassjp.com.br",
+              "size": 0,
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.calhassjp.com.br\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CM CALHAS - (41) 3283-2444</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.calhassjp.com.br\">INÍCIO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"calheiros-sao-jose-dos-pinhais-sjp\">Calheiros em São José dos Pinhais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"troca-telhados-sao-jose-dos-pinhais\">Troca de Telhado SJP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"manuntencao-calhas-sao-jose-dos-pinhais\">Manutenção de Calhas SJP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"calhas-sao-jose-dos-pinhais\">Calhas em São José dos Pinhais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rufos-sao-jose-dos-pinhais\">Rufos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chamines-sao-jose-dos-pinhais\">Chaminés</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"condutores-sao-jose-dos-pinhais\">Condutores</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contato-orcamento-calhas-sjp\">ORÇAMENTOS</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-1q",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Empresarial Web."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1r",
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Manutenção de Calhas em São José dos Pinhais",
+          "meta": "Os melhores calheiros da região"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "36px",
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "msg-box5-1s",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "assets/images/img01-1400x700-29.jpg",
+              "link": "",
+              "alt": "Troca de Telhado em São José dos Pinhais",
+              "title": "Troca de Telhado em São José dos Pinhais",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "linkInNewWindow": false,
+              "name": "newspaper",
+              "family": "et-line",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Trabalho confiável &nbsp;com Manutenção de Calhas em SJP",
+          "text": "Mão de obra de primeira, confiança e responsabilidade de ótimos profissionais, entre em contato conosco e vamos fazer o melhor pelo seu imóvel..",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"contato-orcamento-calhas-sjp\" data-toolbar=\"-mbrBtnMove\">ORÇAMENTO</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1t",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>A Chuva pode ser muito perigosa para seu imóvel, por isso as <b>Calhas</b> são tão importantes, e tão importantes quanto as próprias <b>Calhas</b> são so <b>Calheiros</b>, eles que realizam a <b>Manutenção de Calhas em Sâo José dos Pinhais</b> sem profissionais competentes os imóveis correm sério risco de infiltrações, corrosões e consequentemente degradação, vamos evitar isso junto com nossos profissionais capacitados prevenir deteriorações do imóvel <b>Manutenção de Calhas&nbsp;em São José dos Pinhais</b>.</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1u",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>A <b>CM Calhas</b> conta com os melhores <b>Calheiros</b> e realiza <b>Manutenção de Calhas em São José dos Pinhais</b>, conte conosco para fazer uma <b>manutenção</b> preventiva em seu imóvel de maneira rápida e profissional, as calhas uma hora ou outra vão precisa de manutenção o melhor material não é o suficiente sem a mão de obra correta. Pare de fazer vários orçamentos e tenha uma carta na manga, nossa empresa. Só assim dessa forma poderá contratar rapidamente um serviço e executar a <b>Manutenção de Calhas em São José dos Pinhais</b>.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1v",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Nossos <b>Calheiros </b>fazem o trabalho mais rápido e com precisão da região, Na <b>Troca de Telhado em São José dos Pinhais</b> é necessário contratar uma empresa confiança, por que atraso na obra e retrabalho não são coisas interessantes nem para o contratante nem para que faz o serviço, por isso a <b>CM Calhas</b> desenvolveu tecnicas proprias para realizar <b>Troca de Telhados em São José dos Pinhais</b>.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1w",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"contato-orcamento-calhas-sjp\" data-toolbar=\"-mbrBtnMove\">CONTATO</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts4-1x",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Endereço</b></span></font><br>\nRua Isabel A. Redentora, 2790<br>\nCuritiba - Par\baná<br><br><br>\n<strong>Contato</strong><br>\nEmail: contato@calhassjp.com.br<br>\nFone: (41) 3283-2444<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"calhas-sao-jose-dos-pinhais\" target=\"_blank\">Calhas</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a class=\"text-white\" href=\"calheiros-sao-jose-dos-pinhais-sjp\" target=\"_blank\">Calheiros São José dos Pinhais</a></li><br></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "contato@calhassjp.com.br",
+            "alerts": {
+              "success": "Obrigado, entratemos em contato rapidamente!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Fone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensagem"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contato</a>"
+        }
+      ]
+    },
+    "contato-orcamento-calhas-sjp.html": {
+      "settings": {
+        "title": "Contato Empresa de Calhas SJP (41) 3283-2444",
+        "meta_descr": "Contato de Empresa de Calhas em São José dos Pinhais, os melhores Calheiros da Região."
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.3rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.408rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-1y",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "1.3",
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Calhas SJP CM Calhas",
+              "link": "https://www;calhassjp.com.br",
+              "title": "Calhas SJP CM Calhas",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "download",
+              "family": "et-line",
+              "link": "https://www.calhassjp.com.br",
+              "size": 0,
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.calhassjp.com.br\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CM CALHAS - (41) 3283-2444</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.calhassjp.com.br\">INÍCIO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"calheiros-sao-jose-dos-pinhais-sjp\">Calheiros em São José dos Pinhais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"troca-telhados-sao-jose-dos-pinhais\">Troca de Telhado SJP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"manuntencao-calhas-sao-jose-dos-pinhais\">Manutenção de Calhas SJP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"calhas-sao-jose-dos-pinhais\">Calhas em São José dos Pinhais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rufos-sao-jose-dos-pinhais\">Rufos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chamines-sao-jose-dos-pinhais\">Chaminés</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"condutores-sao-jose-dos-pinhais\">Condutores</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contato-orcamento-calhas-sjp\">ORÇAMENTOS</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-1z",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Empresarial Web."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "form1-24",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "FORMULÁRIO DE CONTATO",
+          "subtitle": "Entre em contato conosco e solicite um orçamento.",
+          "form": {
+            "action": "contato@calhassjp.com.br",
+            "alerts": {
+              "success": "Obrigado, entraremos em Contato o Mais Rápido Possível!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nome*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Telefone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "mensagem"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTATO</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map2",
+          "_anchor": "map2-21",
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": "1",
+            "bgColor": "#fff",
+            "googleMap": {
+              "address": "Rua Isabel A. Redentora, 2790 São José dos Pinhais",
+              "placeId": "ChIJxyXNb0333JQR09Bvxd6RGj0",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts4-20",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Endereço</b></span></font><br>\nRua Isabel A. Redentora, 2790<br>\nCuritiba - Par\baná<br><br><br>\n<strong>Contato</strong><br>\nEmail: contato@calhassjp.com.br<br>\nFone: (41) 3283-2444<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"calhas-sao-jose-dos-pinhais\" target=\"_blank\">Calhas</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a class=\"text-white\" href=\"calheiros-sao-jose-dos-pinhais-sjp\" target=\"_blank\">Calheiros São José dos Pinhais</a></li><br></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "contato@calhassjp.com.br",
+            "alerts": {
+              "success": "Obrigado, entratemos em contato rapidamente!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Fone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensagem"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contato</a>"
+        }
+      ]
+    }
+  }
+}
