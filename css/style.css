@@ -578,10 +578,7 @@ hr {
 .pi-scroll-top-arrow:after {
   content: '\e8c5';
 }
-.pi-scroll-top-arrow.pi-active {
-  bottom: 40px;
-  opacity: 1;
-}
+
 .pi-scroll-top-arrow.pi-active.pi-scroll-top-arrow-footer {
   bottom: 80px;
 }
